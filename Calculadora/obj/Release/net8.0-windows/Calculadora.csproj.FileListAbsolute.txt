@@ -1,0 +1,16 @@
+E:\Calculadora\Calculadora\bin\Release\net8.0-windows\Calculadora.exe
+E:\Calculadora\Calculadora\bin\Release\net8.0-windows\Calculadora.deps.json
+E:\Calculadora\Calculadora\bin\Release\net8.0-windows\Calculadora.runtimeconfig.json
+E:\Calculadora\Calculadora\bin\Release\net8.0-windows\Calculadora.dll
+E:\Calculadora\Calculadora\bin\Release\net8.0-windows\Calculadora.pdb
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.Form1.resources
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.csproj.GenerateResource.cache
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.AssemblyInfoInputs.cache
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.AssemblyInfo.cs
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.dll
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\refint\Calculadora.dll
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.pdb
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\Calculadora.genruntimeconfig.cache
+E:\Calculadora\Calculadora\obj\Release\net8.0-windows\ref\Calculadora.dll
